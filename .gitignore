@@ -1,0 +1,5 @@
+backend/*.db
+backend/data/
+__pycache__/
+*.py[cod]
+.env
